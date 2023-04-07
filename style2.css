@@ -1,0 +1,14 @@
+.nav-item{
+    text-align: center;
+}
+h1,h2{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.row1, .row2, .row3{
+    background-color: gray;
+}
+
+
+    
